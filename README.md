@@ -1,4 +1,4 @@
-# Hi there, I'm Moyinoluwalogo Mayowa (or just Mo!)👋
+# Hi there 👋, I'm Moyinoluwalogo Mayowa (or just Mo!)
 
 <div align="left">
 
@@ -14,7 +14,7 @@ I'm an experienced Software Developer with years of building enterprise software
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Skills & Frameworks 🚀
 
 ### 💻 Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -22,33 +22,30 @@ I'm an experienced Software Developer with years of building enterprise software
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 🚀 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 ### 🗄️ Databases & Cloud
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Cosmos DB](https://img.shields.io/badge/Cosmos%20DB-2D9CDB?style=for-the-badge&logo=azurecosmosdb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MS SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### 🔧 Tools & Technologies
@@ -68,121 +65,39 @@ I'm an experienced Software Developer with years of building enterprise software
 - 🎖️ **[Certification Name]** - [Issuing organization, year]
 - 🏅 **[Award/Recognition]** - [Context and significance]
 - ⭐ **Open Source Contributions** - Contributed to [Project Names] with [X PRs merged]
-- 📝 **Technical Writing** - Published [X articles] on [Platform] reaching [Y readers]
-
----
-
-## 💼 Work & Projects Highlights
-
-### 🔹 [Project Name 1](https://github.com/username/project-name)
-**[Project Type]** | **Tech Stack:** `Technology1` `Technology2` `Technology3`
-
-Brief description of the project, what problem it solves, and the impact it had. Highlight key technical challenges and your role.
-
-- 🌟 [Key Feature/Achievement 1]
-- 🚀 [Key Feature/Achievement 2]
-- 📈 [Metric: e.g., "Improved performance by X%"]
-
-### 🔹 [Project Name 2](https://github.com/username/project-name)
-**[Project Type]** | **Tech Stack:** `Technology1` `Technology2` `Technology3`
-
-Brief description of the project, what problem it solves, and the impact it had. Highlight key technical challenges and your role.
-
-- 🌟 [Key Feature/Achievement 1]
-- 🚀 [Key Feature/Achievement 2]
-- 📈 [Metric: e.g., "Handled X concurrent users"]
-
-### 🔹 [Project Name 3](https://github.com/username/project-name)
-**[Project Type]** | **Tech Stack:** `Technology1` `Technology2` `Technology3`
-
-Brief description of the project, what problem it solves, and the impact it had. Highlight key technical challenges and your role.
-
-- 🌟 [Key Feature/Achievement 1]
-- 🚀 [Key Feature/Achievement 2]
-- 📈 [Metric: e.g., "Reduced costs by $X"]
 
 ---
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<div align="left">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moyinoluwalogo&show_icons=true&theme=radical&hide_border=true&count_private=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&langs_count=8)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moyinoluwalogo&layout=compact&theme=radical&hide_border=true&langs_count=8)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true)
-
 </div>
-
----
-
-## 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact)](https://github.com/YOUR_GITHUB_USERNAME)
 
 ---
 
 ## 📫 Let's Connect!
+<div align="left">
 
-I'm always open to interesting conversations and collaboration opportunities!
-
-<div align="center">
-
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-  [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/YOUR_USERNAME)
-  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@YOUR_USERNAME)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moyinoluwa-mayowa)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://moyinoluwalogo.github.io)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moyinoluwa.mayowa@gmail.com)
 
 </div>
 
 ---
 
-## 🎨 Fun Zone (Optional)
-
-### 💭 Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+## 🎨 Fun Zone
 ### 😄 Here's a Random Dev Joke
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
-
-### 🎵 Currently Vibing To
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
-
-### 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg)
-
 ---
 
 <div align="center">
-  
-  ### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
-  
-  **Thanks for visiting! 🚀**
-  
-  ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
+  Thanks for visiting! 🚀
 </div>
 
 ---
-
-<!--
-## 📝 Customization Guide
-
-To customize this README for your profile:
-
-1. Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username (appears multiple times)
-2. Replace `YOUR_LINKEDIN`, `YOUR_TWITTER`, etc., with your social media handles
-3. Update `[Your Name]` and `[Your Job Title]` in the header
-4. Fill in all `[placeholder text]` sections with your actual information
-5. Add/remove badges based on technologies you actually use
-6. Update project sections with your real projects
-7. Customize the color themes (currently using 'radical') - see available themes at: https://github.com/anuraghazra/github-readme-stats#themes
-8. Remove sections you don't want (like Fun Zone if you prefer professional only)
-9. For the snake animation, you'll need to set up a GitHub Action - see: https://github.com/Platane/snk
-10. Optional: Remove this customization guide comment section once done
-
-Enjoy your new profile README! ⭐
--->
