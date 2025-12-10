@@ -18,7 +18,7 @@ I'm a **[Your Job Title]** with **[X years]** of experience building [type of ap
 - 🔭 Currently working on: **[Current Project/Company]**
 - 🌱 Learning: **[Technologies you're learning]**
 - 💡 Interested in: **[Areas of interest]**
-- 🎯 2024 Goals: **[Your goals for the year]**
+- 🎯 Goals: **[Your goals for the year]**
 - ⚡ Fun fact: **[Something interesting about you]**
 
 ---
@@ -178,7 +178,7 @@ To customize this README for your profile:
 4. Fill in all `[placeholder text]` sections with your actual information
 5. Add/remove badges based on technologies you actually use
 6. Update project sections with your real projects
-7. Customize the color themes (currently using 'radical') - options: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
+7. Customize the color themes (currently using 'radical') - see available themes at: https://github.com/anuraghazra/github-readme-stats#themes
 8. Remove sections you don't want (like Fun Zone if you prefer professional only)
 9. For the snake animation, you'll need to set up a GitHub Action - see: https://github.com/Platane/snk
 10. Optional: Remove this customization guide comment section once done
