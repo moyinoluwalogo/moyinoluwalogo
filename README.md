@@ -10,13 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **[Your Job Title]** with **[X years]** of experience building [type of applications/systems]. I'm passionate about [your main interests] and love solving complex problems through elegant code. Currently focused on [current focus areas] and continuously learning new technologies to stay at the cutting edge of software development.
-
-- 🔭 Currently working on: **[Current Project/Company]**
-- 🌱 Learning: **[Technologies you're learning]**
-- 💡 Interested in: **[Areas of interest]**
-- 🎯 Goals: **[Your goals for the year]**
-- ⚡ Fun fact: **[Something interesting about you]**
+I'm a Software Developer with 8+ of experience building enterprise software solutions. I enjoy exploring new technologies and tackling challenging problems with thoughtful solutions. My current work centers on advancing my skills in modern development practices and staying aligned with emerging trends in the industry..
 
 ---
 
