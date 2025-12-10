@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an experienced Software Developer with years of building enterprise software solutions. I enjoy exploring new technologies and tackling challenging problems with thoughtful solutions. My current work centers on advancing my skills in modern development practices and staying aligned with emerging trends in the industry..
+I’m an experienced Software Developer with a proven track record of building scalable, enterprise-level software solutions. I enjoy exploring new technologies and tackling challenging problems with thoughtful solutions. My current work centers on advancing my skills in modern development practices and staying aligned with emerging trends in the industry..
 
 ---
 
