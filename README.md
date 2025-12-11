@@ -22,10 +22,10 @@ I’m an experienced Software Developer with a proven track record of building s
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -61,7 +61,7 @@ I’m an experienced Software Developer with a proven track record of building s
 - Figma (UX/UI Collaboration)
 - Cloud & DevOps (CI/CD, AWS)
   
-...and more: Salesforce, Contentful, Notion, User Research, SDLC, Wireframing, Post-launch Monitoring, CMS tools.
+...and more: Salesforce, Notion, User Research, SDLC, Wireframing, Post-launch Monitoring, CMS tools.
 
 ---
 
@@ -70,13 +70,12 @@ I’m an experienced Software Developer with a proven track record of building s
 - **Microsoft Certified Technology Specialist** 🏅
 - **Microsoft Certified Professional** 🏅
 - **Computer Professional of Nigeria (GMCPN)**
-- **IBM Product Management Certification** 🏅
 - **I led** the development, deployment and enhancement of successful products.
 - Microsoft AZ-204: Developing Solutions for Microsoft Azure
-- ITIL V4 
 - Big data and predictive analytics using GUI tools. 
 - Reporting and Analytics with Power BI 
 - Experience managing cross-functional teams in delivering high-quality products
+- ITIL V4 
 
 ---
 
